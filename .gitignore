@@ -5,7 +5,7 @@
 # Session Data files
 .RData
 .RDataTmp
-KEYS.R
+/week3/KEYS.R
 # User-specific files
 .Ruserdata
 
